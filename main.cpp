@@ -6,10 +6,8 @@
 #include <opencv2/imgcodecs.hpp>
 
 //darknet with GPU
-
 #define OPENCV
 #define GPU
-
 #include "darknet.h"
 #include "image_opencv.h"
 
